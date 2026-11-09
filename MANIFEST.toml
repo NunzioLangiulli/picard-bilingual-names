@@ -1,0 +1,7 @@
+uuid = "6648d0ee-7bc4-49c4-af2f-45e56e103f89"
+name = "Bilingual Names"
+description = "Configurable bilingual artist, album and track titles, with translated track lists from compatible MusicBrainz releases."
+api = ["3.0"]
+version = "0.2.2"
+authors = ["Borunzio"]
+license = "MIT"
